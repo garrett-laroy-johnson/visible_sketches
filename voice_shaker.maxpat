@@ -38,6 +38,7 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+<<<<<<< HEAD
 					"id" : "obj-9",
 					"linecount" : 2,
 					"maxclass" : "comment",
@@ -51,6 +52,8 @@
 			}
 , 			{
 				"box" : 				{
+=======
+>>>>>>> f70473b1ee0f84d9ff0c432f52661e53316ccc51
 					"id" : "obj-7",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
@@ -5039,7 +5042,11 @@
 					"cursor_shape" : "bar",
 					"cursor_size" : 3,
 					"cursor_visible" : 1,
+<<<<<<< HEAD
 					"domain_bounds" : [ 0.0, 1.0 ],
+=======
+					"domain_bounds" : [ -16.32653, 73999.976562 ],
+>>>>>>> f70473b1ee0f84d9ff0c432f52661e53316ccc51
 					"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"domainruler_grid" : 0,
